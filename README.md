@@ -139,3 +139,4 @@ Workflow 2 is **what happens to every trade by the close of the day**.
 Together they cover the merchant intent (lock a price, get the goods)
 and the institutional layer (dual ledger, attestations, audit) that
 makes the platform shippable to a regulated commodity market.
+# okinawatrader-v4
